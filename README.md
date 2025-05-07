@@ -2,7 +2,7 @@
 
 > Este projeto implementa desafios práticos para entender conceitos fundamentais do Azure Kubernetes Service (AKS) e Azure App Service, com testes automatizados e documentação detalhada.
 
-![Azure Logo](https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azureappservice/0.24.2/1671055454061/Microsoft.VisualStudio.Services.Icons.Default)
+![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/200px-Microsoft_Azure.svg.png)
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Pytest](https://img.shields.io/badge/Pytest-8.3+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
